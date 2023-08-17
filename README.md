@@ -1,5 +1,5 @@
 # Data-Visualization-Challenge
-Pymaceuticals
+*Pymaceuticals*
     - Data
         - Mouse_metadata.csv: Excel file to read data from
         - Study_results.csv: Excel file to read data from
